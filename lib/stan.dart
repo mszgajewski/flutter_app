@@ -1,0 +1,4 @@
+enum Stan {
+  menu,
+  playing,
+}
